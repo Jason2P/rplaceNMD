@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         USA Flag Collab
+// @name         Nomad Flag Collab
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  NOMAD Outline!
